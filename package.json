@@ -1,0 +1,8 @@
+{
+  "name": "filesite",
+  "version": "1.0.0",
+  "description": "Simple static file hosting site",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "engines": { "node": ">=18" }
+}
